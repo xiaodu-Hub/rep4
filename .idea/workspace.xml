@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84d391a3-a1bb-47dd-bd3d-32de7fa5baa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\develop\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cIr5I01Z5Aa2LEA64hEZoBUT7V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.next.interview.service" />
+      <recent name="com.next.interview" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PayServiceTest.testBuy">
+    <configuration name="PayServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.next.interview.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.next.interview.service" />
+      <option name="MAIN_CLASS_NAME" value="com.next.interview.service.PayServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayServiceTest.testBuy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.next.interview.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.next.interview.service" />
+      <option name="MAIN_CLASS_NAME" value="com.next.interview.service.PayServiceTest" />
+      <option name="METHOD_NAME" value="testBuy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.next.interview.PayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PayServiceTest.testBuy" />
+        <item itemvalue="JUnit.PayServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84d391a3-a1bb-47dd-bd3d-32de7fa5baa0" name="Default Changelist" comment="" />
+      <created>1590226763282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590226763282</updated>
+      <workItem from="1590226765091" duration="17378000" />
+      <workItem from="1590282713612" duration="7702000" />
+      <workItem from="1590363344297" duration="1486000" />
+      <workItem from="1590366666504" duration="844000" />
+      <workItem from="1590370541789" duration="12000" />
+      <workItem from="1590370672375" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1590227467640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590227467640" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590241032023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1590241032023" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1590371479310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590371479310" />
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom" timestamp="1590370890728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590370890728" />
+    <state width="1493" height="335" key="GridCell.Tab.0.center" timestamp="1590370890728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590370890728" />
+    <state width="1493" height="335" key="GridCell.Tab.0.left" timestamp="1590370890728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590370890728" />
+    <state width="1493" height="335" key="GridCell.Tab.0.right" timestamp="1590370890728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590370890728" />
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom" timestamp="1590370455995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590370455995" />
+    <state width="1493" height="335" key="GridCell.Tab.1.center" timestamp="1590370455995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590370455995" />
+    <state width="1493" height="335" key="GridCell.Tab.1.left" timestamp="1590370455995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590370455995" />
+    <state width="1493" height="335" key="GridCell.Tab.1.right" timestamp="1590370455995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590370455995" />
+    <state width="1493" height="335" key="GridCell.Tab.2.bottom" timestamp="1590298508425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590298508425" />
+    <state width="1493" height="335" key="GridCell.Tab.2.center" timestamp="1590298508425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1590298508425" />
+    <state width="1493" height="335" key="GridCell.Tab.2.left" timestamp="1590298508425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1590298508425" />
+    <state width="1493" height="335" key="GridCell.Tab.2.right" timestamp="1590298508425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="335" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1590298508425" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1590370912662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590370912662" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1590370543878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590370543878" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590298181635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590298181635" />
+  </component>
+</project>
